@@ -1,6 +1,4 @@
-# Large Language Model Agents
-
-- This is my personal study note; the original course syllabus can be found in the table below ([original website](https://rdi.berkeley.edu/llm-agents/f24)). 
+# This is my personal study note; the original course syllabus can be found in the table below ([original website](https://rdi.berkeley.edu/llm-agents/f24)). 
 
 ## Course Description
 
